@@ -1,5 +1,5 @@
-This repository was made to accompany the manuscript 'The latitudinal gradient in clade age but not in diversification rate dynamics in the birds'.
+This repository was made to accompany the manuscript 'Birds show a latitudinal gradient in clade ages but not in diversification rates'.
 
-It contains the fucntions necessary to perform the analyses using R.
+It contains the that are necessary to perform the analyses using R. The datets are available from birdtree.org and birdlife.org
 
-Contact David Duchene for any enquiries: david.duchene@anu.edu.au
+For any enquiries contact David Duchene: david.duchene@anu.edu.au
